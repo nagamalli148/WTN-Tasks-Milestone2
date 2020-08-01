@@ -13,9 +13,14 @@ Create two threads and assign names ‘Scooby’ and ‘Shaggy’ to the two thr
 
 
 
-Setting the name of the thread. 	
+Topic : Setting the name of the thread. 	
 
 
 2
 
-store colours in the form of an array ex: String colours[]={"white","blue","black","green","red","yellow"}; display all colours repeatedly by generating colour index from Random class. If the random colour index matches to red stop display. Note: perform this task by implementing Runnabe interface
+Topic:Thread creation 
+
+Store colours in the form of an array ex: String colours[]={"white","blue","black","green","red","yellow"}; display all colours repeatedly by generating colour index from Random class. If the random colour index matches to red stop display. Note: perform this task by implementing Runnabe interface.
+
+	
+
